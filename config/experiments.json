@@ -1,0 +1,6 @@
+{
+  "seed": 20261105,
+  "rounds": 100,
+  "local_steps": 5,
+  "learning_rate": 0.5
+}

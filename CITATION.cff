@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article."
+title: "Client-level calibration of a federated heart failure mortality model (code)"
+authors:
+  - family-names: Dawod
+    given-names: Ayman A.
+    affiliation: "Faculty of Information Technology, Zarqa University, Jordan"
+  - family-names: Qazza
+    given-names: Ahmad
+    affiliation: "Department of Mathematics, Faculty of Science, Zarqa University, Jordan"
+  - family-names: Qazza
+    given-names: Rama
+    affiliation: "Faculty of Medicine, Mu'tah University, Jordan"
+license: MIT
+date-released: 2026-11-07
