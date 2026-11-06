@@ -1,0 +1,8 @@
+# Never commit MIMIC-IV data or patient-level derivatives
+local_output/
+*.csv
+*.csv.gz
+*.parquet
+mimic*/
+__pycache__/
+*.pyc
